@@ -1,0 +1,16 @@
+C:\Work\hW2\bin\Debug\net5.0\hW2.exe
+C:\Work\hW2\bin\Debug\net5.0\hW2.deps.json
+C:\Work\hW2\bin\Debug\net5.0\hW2.runtimeconfig.json
+C:\Work\hW2\bin\Debug\net5.0\hW2.runtimeconfig.dev.json
+C:\Work\hW2\bin\Debug\net5.0\hW2.dll
+C:\Work\hW2\bin\Debug\net5.0\ref\hW2.dll
+C:\Work\hW2\bin\Debug\net5.0\hW2.pdb
+C:\Work\hW2\obj\Debug\net5.0\hW2.csproj.AssemblyReference.cache
+C:\Work\hW2\obj\Debug\net5.0\hW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\hW2\obj\Debug\net5.0\hW2.AssemblyInfoInputs.cache
+C:\Work\hW2\obj\Debug\net5.0\hW2.AssemblyInfo.cs
+C:\Work\hW2\obj\Debug\net5.0\hW2.csproj.CoreCompileInputs.cache
+C:\Work\hW2\obj\Debug\net5.0\hW2.dll
+C:\Work\hW2\obj\Debug\net5.0\ref\hW2.dll
+C:\Work\hW2\obj\Debug\net5.0\hW2.pdb
+C:\Work\hW2\obj\Debug\net5.0\hW2.genruntimeconfig.cache
